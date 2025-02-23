@@ -50,7 +50,7 @@ echo "<!DOCTYPE html>
 
 <body>
   <div class='float-btns'>
-    <a href='https://github.com/AngelJumbo/gruvbox-wallpapers' target='_blank' class='btn float-btn' title='Source code' >
+    <a href='https://github.com/kasparwinston/everforest-wallpapers' target='_blank' class='btn float-btn' title='Source code' >
       <span>
         <i class='fa-brands fa-github'></i>
       </span>
@@ -63,7 +63,7 @@ echo "<!DOCTYPE html>
     </button>
   </div>
   <main>
-  <h1>Gruvbox Wallpapers</h1>" > ./index.html
+  <h1>Everforest Wallpapers</h1>" > ./index.html
 
 color=1
 
